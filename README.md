@@ -22,10 +22,9 @@ How to do it? Dragon will take his strength from your healthy lifestyle! It is t
 Choose an egg and name your future dragon. It will hatch as soon as you start to move, so go for a walk or do some sports and don’t forget to track it! 
  
 3.	Recommendations:
--	Don’t forget to grab a bottle of water while doing sports! Even if you just walk remember to drink minimum 6 glasses of water per day. 
--	Did you know that you should eat five portions of fruits or veggies a day? Go grab an apple!
--	Wondering how to gain more steps? Try to walk to school instead of taking a bus
-school instead of driving or taking a bus
+*	Don’t forget to grab a bottle of water while doing sports! Even if you just walk remember to drink minimum 6 glasses of water per day. 
+*	Did you know that you should eat five portions of fruits or veggies a day? Go grab an apple!
+*	Wondering how to gain more steps? Try to walk to school instead of taking a bus school instead of driving or taking a bus
 
 Keep Calm and Keep Coding.
 
