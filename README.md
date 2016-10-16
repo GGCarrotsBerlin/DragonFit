@@ -1,7 +1,7 @@
 # DragonFit
 
 
-!DragonFit/14614215_10202310808047712_250319583_o.png
+![myimage-alt-tag](DragonFit/14614215_10202310808047712_250319583_o.png)
 
 Hey Everyone, this is the git repository of Team Dragonfit.
 
