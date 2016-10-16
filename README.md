@@ -1,7 +1,8 @@
 # DragonFit
 
+![Alt text]
+(https://github.com/GGCarrotsBerlin/DragonFit/blob/master/14614215_10202310808047712_250319583_o.png?raw=true "Optional Title")
 
-![myimage-alt-tag](DragonFit/14614215_10202310808047712_250319583_o.png)
 
 Hey Everyone, this is the git repository of Team Dragonfit.
 
