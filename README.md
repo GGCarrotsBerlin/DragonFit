@@ -3,7 +3,7 @@
 Hey Everyone, this is the git repository of Team Dragonfit.
 
 We are a team of 6 members as :
-* Aleksander
+* Aleksandra
 * Ai
 * Sakshi
 * Lorna
