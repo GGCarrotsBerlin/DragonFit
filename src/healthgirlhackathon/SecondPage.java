@@ -36,7 +36,7 @@ public class SecondPage {
         window.setMinHeight(350);
 
         //Importing the image
-        File image = new File("/Users/Kerem/Desktop/mario.png");
+        File image = new File("/Users/Kerem/Documents/Programlamalar/DragonFit/dragon.png");
         Image imageStartPage = new Image(image.toURI().toString());
         
         //Displaying the image
@@ -68,6 +68,7 @@ public class SecondPage {
         confirmButton.setOnAction(new EventHandler<ActionEvent>() {
              @Override
              public void handle(ActionEvent event) {
+                 //Dashboard(2);
                  Dashboard.display("Title", "Massage");
              }
          });
@@ -83,7 +84,7 @@ public class SecondPage {
     
         GridPane grid = new GridPane();
         grid.setAlignment(Pos.CENTER);
-        grid.setPadding(new Insets(15));
+        grid.setPadding(new Insets(30));
         grid.getChildren().addAll(imageView, textArea_name, textArea_pass, hBox);
         GridPane.setConstraints(imageView, 1, 0);
         GridPane.setConstraints(textArea_name, 1, 1);
@@ -96,6 +97,7 @@ public class SecondPage {
         
     Scene scene = new Scene(grid, 700, 700);
     window.setScene(scene);
+    scene.getStylesheets().add("healthgirlhackathon/newThema.css");    
     window.showAndWait();
     
 

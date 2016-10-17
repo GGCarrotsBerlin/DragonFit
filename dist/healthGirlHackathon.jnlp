@@ -8,7 +8,9 @@
   </information>
   <resources>
     <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
-    <jar href="healthGirlHackathon.jar" size="8396" download="eager" />
+    <jar href="healthGirlHackathon.jar" size="11434" download="eager" />
+    <jar href="lib/org-netbeans-modules-java-api-common.jar" size="840352" download="eager" />
+    <jar href="lib/org-netbeans-modules-java-source.jar" size="3217647" download="eager" />
   </resources>
   <applet-desc  width="800" height="600" main-class="com.javafx.main.NoJavaFXFallback"  name="healthGirlHackathon" >
     <param name="requiredFXVersion" value="8.0+"/>

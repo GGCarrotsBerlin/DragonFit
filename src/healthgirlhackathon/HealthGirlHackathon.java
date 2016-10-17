@@ -32,7 +32,7 @@ public class HealthGirlHackathon extends Application {
     public void start(Stage primaryStage) {
         
         //Importing the image
-        File image = new File("/Users/Kerem/Desktop/mario.png");
+        File image = new File("/Users/Kerem/Documents/Programlamalar/DragonFit/dragon.png");
         Image imageStartPage = new Image(image.toURI().toString());
         
         //Displaying the image
@@ -71,6 +71,7 @@ public class HealthGirlHackathon extends Application {
         
         primaryStage.setTitle("Hello World!");
         primaryStage.setScene(scene);
+        scene.getStylesheets().add("healthgirlhackathon/newThema.css");        
         primaryStage.show();
     }
 

@@ -1,0 +1,18 @@
+.root{
+    /*
+    -fx-background-color:#383838;
+    */
+    -fx-background-color: #1bcee8;
+    -fx-font-size:18pt;
+}
+
+
+.button-black{
+    /*-fx-opacity:0.5;*/
+    -fx-font: 12px cursive;
+}
+
+.Label{
+    
+    
+}
